@@ -1,12 +1,13 @@
 # TP_Git
 
-12/01/2024
+## 12/01/2024
 
-Remy Cojocaru
+## Remy Cojocaru
 
-Ticket - 2
+- Ticket - 2
 
-Adrien Pimbel
+## Adrien Pimbel
 
-Ticket - 1
-Ticket - 3
+- Ticket - 1
+
+- Ticket - 3
